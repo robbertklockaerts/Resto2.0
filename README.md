@@ -3,6 +3,10 @@ Adding a back-office with php to a restaurant site
 
 https://therabbithouse.000webhostapp.com/
 
+password: SpaceJam
+
+
+
 # Restaurant 2.0  
 
 Type of challenge: **learning**
