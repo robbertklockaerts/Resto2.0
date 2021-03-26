@@ -6,7 +6,6 @@ https://therabbithouse.000webhostapp.com/
 password: SpaceJam
 
 
-
 # Restaurant 2.0  
 
 Type of challenge: **learning**
