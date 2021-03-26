@@ -11,7 +11,7 @@ password: SpaceJam
 
 Type of challenge: **learning**
 Duration: **5 days**
-From November 22h to 26st 2021
+From March 22h to 26st 2021
 Team challenge: **solo**
 
 ## Learning objectives
